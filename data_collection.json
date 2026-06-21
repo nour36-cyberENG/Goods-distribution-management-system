@@ -1,0 +1,285 @@
+{
+  "warehouse_goods": {
+    "1": {
+      "name": "بن عربي يمني",
+      "amount": 50,
+      "price": 45,
+      "arrival_date": "2025-01-15",
+      "cost": 35,
+      "import_location": "اليمن",
+      "unit": "كغ"
+    },
+    "2": {
+      "name": "بن تركي",
+      "amount": 60.0,
+      "price": 35,
+      "arrival_date": "2026-02-16",
+      "cost": 28,
+      "import_location": "تركيا",
+      "unit": "كغ"
+    },
+    "3": {
+      "name": "بن إسبريسو إيطالي",
+      "amount": 20.0,
+      "price": 55,
+      "arrival_date": "2025-01-15",
+      "cost": 42,
+      "import_location": "إيطاليا",
+      "unit": "كغ"
+    },
+    "4": {
+      "name": "سكر أبيض",
+      "amount": 200,
+      "price": 1.2,
+      "arrival_date": "2025-01-10",
+      "cost": 0.85,
+      "import_location": "مصر",
+      "unit": "كغ"
+    },
+    "5": {
+      "name": "حليب بودرة",
+      "amount": 100,
+      "price": 8.5,
+      "arrival_date": "2025-01-20",
+      "cost": 6.5,
+      "import_location": "نيوزيلندا",
+      "unit": "كغ"
+    },
+    "6": {
+      "name": "أكواب ورقية صغيرة",
+      "amount": 4650.0,
+      "price": 0.08,
+      "arrival_date": "2025-01-05",
+      "cost": 0.05,
+      "import_location": "الصين",
+      "unit": "قطعة"
+    },
+    "7": {
+      "name": "أكواب ورقية كبيرة",
+      "amount": 3100.0,
+      "price": 0.12,
+      "arrival_date": "2025-12-15",
+      "cost": 0.08,
+      "import_location": "الصين",
+      "unit": "قطعة"
+    },
+    "8": {
+      "name": "أغطية أكواب",
+      "amount": 7000.0,
+      "price": 0.03,
+      "arrival_date": "2025-01-05",
+      "cost": 0.02,
+      "import_location": "الصين",
+      "unit": "قطعة"
+    },
+    "9": {
+      "name": "مناديل ورقية",
+      "amount": 300.0,
+      "price": 1.5,
+      "arrival_date": "2026-01-30",
+      "cost": 1.0,
+      "import_location": "تركيا",
+      "unit": "علبة"
+    },
+    "10": {
+      "name": "شراب فانيلا",
+      "amount": 40,
+      "price": 12,
+      "arrival_date": "2025-01-22",
+      "cost": 9,
+      "import_location": "أمريكا",
+      "unit": "زجاجة"
+    },
+    "11": {
+      "name": "شراب كراميل",
+      "amount": 47.0,
+      "price": 12,
+      "arrival_date": "2026-01-15",
+      "cost": 9,
+      "import_location": "أمريكا",
+      "unit": "زجاجة"
+    },
+    "12": {
+      "name": "شراب هيزل نت",
+      "amount": 30,
+      "price": 13,
+      "arrival_date": "2025-01-22",
+      "cost": 10,
+      "import_location": "أمريكا",
+      "unit": "زجاجة"
+    },
+    "13": {
+      "name": "شوكولاتة بلجيكية",
+      "amount": 20,
+      "price": 18,
+      "arrival_date": "2025-01-25",
+      "cost": 14,
+      "import_location": "بلجيكا",
+      "unit": "كغ"
+    },
+    "14": {
+      "name": "مشروبات باردة - فرابيه مكس",
+      "amount": 60,
+      "price": 8,
+      "arrival_date": "2025-01-12",
+      "cost": 6,
+      "import_location": "تركيا",
+      "unit": "علبة"
+    },
+    "15": {
+      "name": "بسكويت بالشوكولاتة",
+      "amount": 110.0,
+      "price": 2.5,
+      "arrival_date": "2026-01-26",
+      "cost": 1.8,
+      "import_location": "السعودية",
+      "unit": "علبة"
+    },
+    "16": {
+      "name": "كرواسون مجمد",
+      "amount": 100,
+      "price": 0.8,
+      "arrival_date": "2025-01-28",
+      "cost": 0.5,
+      "import_location": "السعودية",
+      "unit": "قطعة"
+    },
+    "17": {
+      "name": "مصاصات بلاستيك",
+      "amount": 10000,
+      "price": 0.02,
+      "arrival_date": "2025-01-05",
+      "cost": 0.01,
+      "import_location": "الصين",
+      "unit": "قطعة"
+    },
+    "18": {
+      "name": "قهوة تركية فاخرة",
+      "amount": 15,
+      "price": 42,
+      "arrival_date": "2025-01-15",
+      "cost": 32,
+      "import_location": "تركيا",
+      "unit": "كغ"
+    }
+  },
+  "store_branches": {
+    "1": {
+      "الاسم": "فرع عبدون",
+      "المكان": "",
+      "هاتف مدير الفرع": "0765954227"
+    },
+    "2": {
+      "الاسم": "فرع المدينة الرياضية",
+      "المكان": "بجانب الاستاد الرياضي",
+      "هاتف مدير الفرع": "0769745318"
+    },
+    "3": {
+      "الاسم": "فرع بوليفارد العبدلي",
+      "المكان": "بجانب امازون",
+      "هاتف مدير الفرع": "0764497259"
+    },
+    "4": {
+      "الاسم": "فرع الصويفية",
+      "المكان": "بجانب مجوهرات العامودي",
+      "هاتف مدير الفرع": "0762711889"
+    },
+    "5": {
+      "الاسم": "فرع الجامعة الأردنية",
+      "المكان": "بجانب مطعم ماكدونالدز",
+      "هاتف مدير الفرع": "0763499752"
+    },
+    "6": {
+      "الاسم": "فرع مكة مول",
+      "المكان": "الطابق الأول",
+      "هاتف مدير الفرع": "0796001239"
+    },
+    "7": {
+      "الاسم": "فرع تاج مول",
+      "المكان": "الطابق الثاني",
+      "هاتف مدير الفرع": "0796001240"
+    }
+  },
+  "distributions_log": [
+    {
+      "branch": "فرع المدينة الرياضية",
+      "product_name": "أكواب ورقية صغيرة",
+      "product_id": 6,
+      "quantity": 150.0,
+      "unit": "قطعة",
+      "delivery_date": "2026-01-26",
+      "unit_price": 0.08,
+      "total_revenue": 12.0,
+      "profit_per_unit": 0.03,
+      "total_profit": 4.5,
+      "timestamp": "2026-01-29 15:56:34"
+    },
+    {
+      "branch": "فرع المدينة الرياضية",
+      "product_name": "بن تركي",
+      "product_id": 2,
+      "quantity": 10.0,
+      "unit": "كغ",
+      "delivery_date": "2026-01-30",
+      "unit_price": 35,
+      "total_revenue": 350.0,
+      "profit_per_unit": 7,
+      "total_profit": 70.0,
+      "timestamp": "2026-01-29 15:57:07"
+    },
+    {
+      "branch": "فرع المدينة الرياضية",
+      "product_name": "أكواب ورقية صغيرة",
+      "product_id": 6,
+      "quantity": 200.0,
+      "unit": "قطعة",
+      "delivery_date": "2026-02-6",
+      "unit_price": 0.08,
+      "total_revenue": 16.0,
+      "profit_per_unit": 0.03,
+      "total_profit": 6.0,
+      "timestamp": "2026-01-29 15:57:31"
+    },
+    {
+      "branch": "فرع الجامعة الأردنية",
+      "product_name": "أغطية أكواب",
+      "product_id": 8,
+      "quantity": 1000.0,
+      "unit": "قطعة",
+      "delivery_date": "2025-12-12",
+      "unit_price": 0.03,
+      "total_revenue": 30.0,
+      "profit_per_unit": 0.009999999999999998,
+      "total_profit": 9.999999999999998,
+      "timestamp": "2026-01-29 16:07:02"
+    },
+    {
+      "branch": "فرع الجامعة الأردنية",
+      "product_name": "بن إسبريسو إيطالي",
+      "product_id": 3,
+      "quantity": 5.0,
+      "unit": "كغ",
+      "delivery_date": "2026-01-10",
+      "unit_price": 55,
+      "total_revenue": 275.0,
+      "profit_per_unit": 13,
+      "total_profit": 65.0,
+      "timestamp": "2026-01-30 08:40:37"
+    },
+    {
+      "branch": "فرع عبدون",
+      "product_name": "مناديل ورقية",
+      "product_id": 9,
+      "quantity": 100.0,
+      "unit": "علبة",
+      "delivery_date": "2026-01-30",
+      "unit_price": 1.5,
+      "total_revenue": 150.0,
+      "profit_per_unit": 0.5,
+      "total_profit": 50.0,
+      "timestamp": "2026-01-30 23:54:15"
+    }
+  ],
+  "next_product_id": 19,
+  "next_branch_id": 8
+}
